@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceci-alsina&label=Profile%20views&color=0e75b6&style=flat" alt="ceci-alsina" /> </p>
 
-- 👯 I’m looking to collaborate on [Book Leaks](https://github.com/No-Country/s12-10-m-java-angular.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
